@@ -1,4 +1,4 @@
-# metamask-login
+# off-the-shelf publishable npm package template written in TS
 
 all packaging/publishing must follow https://github.com/syyunn/packaging-convention-js/blob/master/README.md
 
